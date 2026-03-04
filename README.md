@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Kpdeb/leetcode/tree/main/0148-sort-list/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
