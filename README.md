@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/Kpdeb/leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kpdeb/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kpdeb/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kpdeb/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
