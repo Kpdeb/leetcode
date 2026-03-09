@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Kpdeb/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/Kpdeb/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kpdeb/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0136-single-number](https://github.com/Kpdeb/leetcode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kpdeb/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0321-create-maximum-number](https://github.com/Kpdeb/leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -95,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Kpdeb/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0321-create-maximum-number](https://github.com/Kpdeb/leetcode/tree/main/0321-create-maximum-number/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Kpdeb/leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
