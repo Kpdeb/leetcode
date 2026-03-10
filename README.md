@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Kpdeb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/Kpdeb/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/Kpdeb/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kpdeb/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Kpdeb/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Kpdeb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0043-multiply-strings](https://github.com/Kpdeb/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Kpdeb/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Kpdeb/leetcode/tree/main/0058-length-of-last-word/) | Easy |
@@ -104,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Kpdeb/leetcode/tree/main/0136-single-number/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Kpdeb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
