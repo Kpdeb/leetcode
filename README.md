@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/Kpdeb/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kpdeb/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Kpdeb/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Kpdeb/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Kpdeb/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,4 +114,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Kpdeb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 <!---LeetCode Topics End-->
