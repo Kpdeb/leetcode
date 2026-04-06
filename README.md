@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Kpdeb/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Kpdeb/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Kpdeb/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +161,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kpdeb/leetcode/tree/main/0169-majority-element/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
