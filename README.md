@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Kpdeb/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0321-create-maximum-number](https://github.com/Kpdeb/leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
