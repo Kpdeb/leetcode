@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Kpdeb/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Kpdeb/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/Kpdeb/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kpdeb/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kpdeb/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Kpdeb/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Kpdeb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Kpdeb/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0043-multiply-strings](https://github.com/Kpdeb/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Kpdeb/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Kpdeb/leetcode/tree/main/0058-length-of-last-word/) | Easy |
@@ -193,4 +195,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Kpdeb/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 <!---LeetCode Topics End-->
