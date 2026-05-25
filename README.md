@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kpdeb/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Kpdeb/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Kpdeb/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kpdeb/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Kpdeb/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Kpdeb/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kpdeb/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
