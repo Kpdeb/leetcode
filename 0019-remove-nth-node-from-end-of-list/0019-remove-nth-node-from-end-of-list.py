@@ -6,23 +6,17 @@ class ListNode(object):
 
 class Solution(object):
     def removeNthFromEnd(self, head, n):
+        dummy = ListNode()
+        dummy.next =head 
+        slow = dummy 
+        fast = dummy 
 
-        dummy = ListNode(0)
-        dummy.next = head
-
-        fast = dummy
-        slow = dummy
-
-        # Move fast n+1 steps
-        for _ in range(n + 1):
-            fast = fast.next
-
-        # Move both pointers
-        while fast:
-            fast = fast.next
-            slow = slow.next
-
-        # Delete node
-        slow.next = slow.next.next
-
-        return dummy.next
+        for _ in range (n+1):
+            fast = fast.next 
+        
+        while fast :
+            slow = slow.next 
+            fast= fast.next 
+        
+        slow.next = slow.next.next 
+        return dummy.next 
