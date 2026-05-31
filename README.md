@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Kpdeb/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0064-minimum-path-sum](https://github.com/Kpdeb/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0396-rotate-function](https://github.com/Kpdeb/leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/Kpdeb/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/Kpdeb/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Kpdeb/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Kpdeb/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kpdeb/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/Kpdeb/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Sliding Window
