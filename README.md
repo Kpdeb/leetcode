@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Kpdeb/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Kpdeb/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/Kpdeb/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0067-add-binary](https://github.com/Kpdeb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/Kpdeb/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Kpdeb/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Kpdeb/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/Kpdeb/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/Kpdeb/leetcode/tree/main/0065-valid-number/) | Hard |
+| [0067-add-binary](https://github.com/Kpdeb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/Kpdeb/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Kpdeb/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0796-rotate-string](https://github.com/Kpdeb/leetcode/tree/main/0796-rotate-string/) | Easy |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Kpdeb/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kpdeb/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/Kpdeb/leetcode/tree/main/0067-add-binary/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Kpdeb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Kpdeb/leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Kpdeb/leetcode/tree/main/0136-single-number/) | Easy |
 ## Trie
