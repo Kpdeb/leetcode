@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Kpdeb/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Kpdeb/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kpdeb/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0166-fraction-to-recurring-decimal](https://github.com/Kpdeb/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/Kpdeb/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Kpdeb/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Kpdeb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/Kpdeb/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0189-rotate-array](https://github.com/Kpdeb/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Kpdeb/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0396-rotate-function](https://github.com/Kpdeb/leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/Kpdeb/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0097-interleaving-string](https://github.com/Kpdeb/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/Kpdeb/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/Kpdeb/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Kpdeb/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0796-rotate-string](https://github.com/Kpdeb/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
