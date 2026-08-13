@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/Kpdeb/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1406-stone-game-iii](https://github.com/Kpdeb/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kpdeb/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 ## Hash Table
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/Kpdeb/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/Kpdeb/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0796-rotate-string](https://github.com/Kpdeb/leetcode/tree/main/0796-rotate-string/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kpdeb/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Simulation
@@ -329,4 +331,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Kpdeb/leetcode/tree/main/1140-stone-game-ii/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
