@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kpdeb/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Kpdeb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Kpdeb/leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Kpdeb/leetcode/tree/main/0136-single-number/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kpdeb/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
