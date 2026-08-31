@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Kpdeb/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0064-minimum-path-sum](https://github.com/Kpdeb/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/Kpdeb/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/Kpdeb/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0396-rotate-function](https://github.com/Kpdeb/leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Kpdeb/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/Kpdeb/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Kpdeb/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/Kpdeb/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kpdeb/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0189-rotate-array](https://github.com/Kpdeb/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -397,4 +399,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kpdeb/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Kpdeb/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
