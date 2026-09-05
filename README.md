@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/Kpdeb/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0396-rotate-function](https://github.com/Kpdeb/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kpdeb/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Kpdeb/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0788-rotated-digits](https://github.com/Kpdeb/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Kpdeb/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Kpdeb/leetcode/tree/main/1140-stone-game-ii/) | Medium |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/Kpdeb/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0396-rotate-function](https://github.com/Kpdeb/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Kpdeb/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Kpdeb/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0788-rotated-digits](https://github.com/Kpdeb/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Kpdeb/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Kpdeb/leetcode/tree/main/1140-stone-game-ii/) | Medium |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Kpdeb/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/Kpdeb/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Kpdeb/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/Kpdeb/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
