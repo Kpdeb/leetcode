@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Kpdeb/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Kpdeb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kpdeb/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Kpdeb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kpdeb/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Kpdeb/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Kpdeb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kpdeb/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0242-valid-anagram](https://github.com/Kpdeb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1345-jump-game-iv](https://github.com/Kpdeb/leetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Kpdeb/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Kpdeb/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kpdeb/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0242-valid-anagram](https://github.com/Kpdeb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Kpdeb/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0796-rotate-string](https://github.com/Kpdeb/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1927-sum-game](https://github.com/Kpdeb/leetcode/tree/main/1927-sum-game/) | Medium |
