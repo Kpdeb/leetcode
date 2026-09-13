@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Kpdeb/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Kpdeb/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kpdeb/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0228-summary-ranges](https://github.com/Kpdeb/leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kpdeb/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/Kpdeb/leetcode/tree/main/0274-h-index/) | Medium |
 | [0321-create-maximum-number](https://github.com/Kpdeb/leetcode/tree/main/0321-create-maximum-number/) | Hard |
