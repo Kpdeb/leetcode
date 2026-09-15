@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Kpdeb/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kpdeb/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Kpdeb/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Kpdeb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Kpdeb/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/Kpdeb/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kpdeb/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Kpdeb/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Kpdeb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1345-jump-game-iv](https://github.com/Kpdeb/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Kpdeb/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Kpdeb/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0321-create-maximum-number](https://github.com/Kpdeb/leetcode/tree/main/0321-create-maximum-number/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Kpdeb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Kpdeb/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0321-create-maximum-number](https://github.com/Kpdeb/leetcode/tree/main/0321-create-maximum-number/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Kpdeb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
