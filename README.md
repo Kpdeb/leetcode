@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Kpdeb/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Kpdeb/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kpdeb/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0057-insert-interval](https://github.com/Kpdeb/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kpdeb/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/Kpdeb/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Kpdeb/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
