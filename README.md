@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/Kpdeb/leetcode/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0645-set-mismatch](https://github.com/Kpdeb/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kpdeb/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Kpdeb/leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Kpdeb/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Kpdeb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Kpdeb/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/Kpdeb/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/Kpdeb/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kpdeb/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Kpdeb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Kpdeb/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1345-jump-game-iv](https://github.com/Kpdeb/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Kpdeb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Kpdeb/leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Kpdeb/leetcode/tree/main/0136-single-number/) | Easy |
+| [0645-set-mismatch](https://github.com/Kpdeb/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kpdeb/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
