@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/Kpdeb/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kpdeb/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1406-stone-game-iii](https://github.com/Kpdeb/leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1441-build-an-array-with-stack-operations](https://github.com/Kpdeb/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Kpdeb/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kpdeb/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1563-stone-game-v](https://github.com/Kpdeb/leetcode/tree/main/1563-stone-game-v/) | Hard |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Kpdeb/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kpdeb/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Kpdeb/leetcode/tree/main/0067-add-binary/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Kpdeb/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Kpdeb/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2028-find-missing-observations](https://github.com/Kpdeb/leetcode/tree/main/2028-find-missing-observations/) | Medium |
 ## Stack
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/Kpdeb/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0321-create-maximum-number](https://github.com/Kpdeb/leetcode/tree/main/0321-create-maximum-number/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Kpdeb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Kpdeb/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
