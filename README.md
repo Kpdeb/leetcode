@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0645-set-mismatch](https://github.com/Kpdeb/leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kpdeb/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kpdeb/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kpdeb/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1140-stone-game-ii](https://github.com/Kpdeb/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Kpdeb/leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kpdeb/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1406-stone-game-iii](https://github.com/Kpdeb/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1470-shuffle-the-array](https://github.com/Kpdeb/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kpdeb/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Kpdeb/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Kpdeb/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1345-jump-game-iv](https://github.com/Kpdeb/leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kpdeb/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -376,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Kpdeb/leetcode/tree/main/0274-h-index/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kpdeb/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kpdeb/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
