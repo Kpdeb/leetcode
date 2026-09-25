@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Kpdeb/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0064-minimum-path-sum](https://github.com/Kpdeb/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Kpdeb/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/Kpdeb/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/Kpdeb/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0396-rotate-function](https://github.com/Kpdeb/leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0065-valid-number](https://github.com/Kpdeb/leetcode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/Kpdeb/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/Kpdeb/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0091-decode-ways](https://github.com/Kpdeb/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0097-interleaving-string](https://github.com/Kpdeb/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/Kpdeb/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0165-compare-version-numbers](https://github.com/Kpdeb/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
