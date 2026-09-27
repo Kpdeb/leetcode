@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Kpdeb/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kpdeb/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kpdeb/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0040-combination-sum-ii](https://github.com/Kpdeb/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Kpdeb/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Kpdeb/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kpdeb/leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kpdeb/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Kpdeb/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Kpdeb/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Kpdeb/leetcode/tree/main/0078-subsets/) | Medium |
 ## Enumeration
