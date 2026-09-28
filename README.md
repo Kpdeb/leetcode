@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Kpdeb/leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/Kpdeb/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kpdeb/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0729-my-calendar-i](https://github.com/Kpdeb/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0739-daily-temperatures](https://github.com/Kpdeb/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Kpdeb/leetcode/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0877-stone-game](https://github.com/Kpdeb/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kpdeb/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/Kpdeb/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kpdeb/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0729-my-calendar-i](https://github.com/Kpdeb/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kpdeb/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kpdeb/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Dynamic Programming
@@ -446,10 +448,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0729-my-calendar-i](https://github.com/Kpdeb/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0729-my-calendar-i](https://github.com/Kpdeb/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -464,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kpdeb/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Kpdeb/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0729-my-calendar-i](https://github.com/Kpdeb/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
