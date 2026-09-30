@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2028-find-missing-observations](https://github.com/Kpdeb/leetcode/tree/main/2028-find-missing-observations/) | Medium |
 | [2029-stone-game-ix](https://github.com/Kpdeb/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kpdeb/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kpdeb/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -215,12 +216,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Kpdeb/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Kpdeb/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1563-stone-game-v](https://github.com/Kpdeb/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kpdeb/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Kpdeb/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Kpdeb/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kpdeb/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kpdeb/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kpdeb/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -532,4 +535,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Kpdeb/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kpdeb/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
