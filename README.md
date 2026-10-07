@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/Kpdeb/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Kpdeb/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0242-valid-anagram](https://github.com/Kpdeb/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Kpdeb/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Kpdeb/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Kpdeb/leetcode/tree/main/0522-longest-uncommon-subsequence-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Kpdeb/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Kpdeb/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1345-jump-game-iv](https://github.com/Kpdeb/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kpdeb/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Backtracking
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/Kpdeb/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/Kpdeb/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Kpdeb/leetcode/tree/main/0078-subsets/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Kpdeb/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
