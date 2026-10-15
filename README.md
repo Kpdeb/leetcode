@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kpdeb/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kpdeb/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kpdeb/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kpdeb/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kpdeb/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/Kpdeb/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kpdeb/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kpdeb/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kpdeb/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kpdeb/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Search
@@ -499,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/Kpdeb/leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kpdeb/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -580,4 +583,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kpdeb/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kpdeb/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
