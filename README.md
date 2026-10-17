@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kpdeb/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kpdeb/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kpdeb/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kpdeb/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kpdeb/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kpdeb/leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kpdeb/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kpdeb/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kpdeb/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kpdeb/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kpdeb/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kpdeb/leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kpdeb/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kpdeb/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
