@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kpdeb/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Kpdeb/leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
