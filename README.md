@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Kpdeb/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2028-find-missing-observations](https://github.com/Kpdeb/leetcode/tree/main/2028-find-missing-observations/) | Medium |
 | [2029-stone-game-ix](https://github.com/Kpdeb/leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Kpdeb/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kpdeb/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kpdeb/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/Kpdeb/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kpdeb/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/Kpdeb/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kpdeb/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2409-count-days-spent-together](https://github.com/Kpdeb/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kpdeb/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Kpdeb/leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
