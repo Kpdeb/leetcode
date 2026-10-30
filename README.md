@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kpdeb/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kpdeb/leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Kpdeb/leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kpdeb/leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,10 +416,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kpdeb/leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kpdeb/leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -626,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kpdeb/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kpdeb/leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
