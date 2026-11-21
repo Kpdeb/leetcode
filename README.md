@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kpdeb/leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kpdeb/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Kpdeb/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kpdeb/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Kpdeb/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kpdeb/leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kpdeb/leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kpdeb/leetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kpdeb/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Kpdeb/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kpdeb/leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kpdeb/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kpdeb/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kpdeb/leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kpdeb/leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Kpdeb/leetcode/tree/main/2976-minimum-cost-to-convert-string-i/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Kpdeb/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kpdeb/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kpdeb/leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Kpdeb/leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/Kpdeb/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Kpdeb/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kpdeb/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Kpdeb/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kpdeb/leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -706,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/Kpdeb/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Kpdeb/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Kpdeb/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kpdeb/leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kpdeb/leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Monotonic Queue
