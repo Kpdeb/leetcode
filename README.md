@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kpdeb/leetcode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kpdeb/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Kpdeb/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/Kpdeb/leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kpdeb/leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kpdeb/leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kpdeb/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kpdeb/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Kpdeb/leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kpdeb/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kpdeb/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kpdeb/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Kpdeb/leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -673,10 +676,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kpdeb/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Kpdeb/leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Kpdeb/leetcode/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/Kpdeb/leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -726,4 +731,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Kpdeb/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/Kpdeb/leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
