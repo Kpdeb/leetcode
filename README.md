@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2029-stone-game-ix](https://github.com/Kpdeb/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Kpdeb/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kpdeb/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Kpdeb/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kpdeb/leetcode/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kpdeb/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kpdeb/leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/Kpdeb/leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2028-find-missing-observations](https://github.com/Kpdeb/leetcode/tree/main/2028-find-missing-observations/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kpdeb/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/Kpdeb/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
